@@ -1,0 +1,7 @@
+.mainbody {
+  display: flex;
+}
+body {
+  font-family: "Poppins", sans-serif;
+  background-color: #f7f9fc;
+}

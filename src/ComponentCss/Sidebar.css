@@ -1,0 +1,20 @@
+.sidebar {
+  margin: 0px 30px 30px 30px;
+}
+
+.menu {
+  display: block;
+  margin-top: 60px;
+  text-decoration: none;
+  color: whitesmoke;
+  background-color: darkcyan;
+  padding: 40px;
+  text-align: center;
+  border: 1px solid darkcyan;
+  border-radius: 5%;
+  font-size: 18px;
+}
+
+.menu:hover {
+  background-color: #1565c0;
+}

@@ -1,0 +1,51 @@
+.logo {
+  width: 180px;
+  height: 80px;
+}
+
+.header {
+  margin: 30px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.search {
+  height: 45px;
+  width: 500px;
+  border: 1px solid black;
+  border-top-left-radius: 5px;
+  border-bottom-left-radius: 5px;
+  font-size: 25px;
+  padding-left: 25px;
+}
+
+.signin {
+  height: 60px;
+  width: 100px;
+}
+
+.logbtn {
+  margin-top: 10px;
+}
+
+.sbtn {
+  border: 1px solid black;
+  border-top-right-radius: 5px;
+  border-bottom-right-radius: 5px;
+  background-color: white;
+}
+.sbtn:hover {
+  opacity: 0.7;
+  cursor: pointer;
+}
+.box {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.logname {
+  margin-right: 15px;
+  color: #008b8b;
+  font-weight: bold;
+}

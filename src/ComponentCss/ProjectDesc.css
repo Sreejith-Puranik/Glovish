@@ -1,0 +1,17 @@
+.container {
+  background-color: white;
+  margin-top: 50px;
+  width: 1580px;
+  border: 1px solid white;
+  border-radius: 15px;
+  text-align: center;
+}
+
+.mainbody {
+  display: flex;
+  margin-bottom: 500px;
+}
+body {
+  font-family: "Poppins", sans-serif;
+  background-color: #f7f9fc;
+}

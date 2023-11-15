@@ -1,0 +1,23 @@
+.arr-prev,
+.arr-next {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  z-index: 1;
+  cursor: pointer;
+  width: 30px;
+  height: 30px;
+}
+
+.arr-prev {
+  left: 10px;
+}
+
+.arr-next {
+  right: 10px;
+}
+
+.arr {
+  width: 30px;
+  height: 30px;
+}
